@@ -686,6 +686,7 @@ link {
     .rightBlockImg {
         width: 95%;
         height: 70%;
+        object-fit: contain;
         margin: 15px auto 10px;
     }
 
