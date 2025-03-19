@@ -1,4 +1,4 @@
-alert('hello');
+
 
 document.querySelector('.lupaIcon').addEventListener('click', function () {
     const input = document.querySelector('.inputSearch');
