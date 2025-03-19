@@ -619,6 +619,8 @@ link {
 
     }
 
+
+
     .leftBlockImg {
         width: 100%;
         margin: 0 auto;
@@ -726,6 +728,16 @@ link {
         color: rgb(90, 90, 243);
         font-family: 'Texta-Medium', Verdana, sans-serif;
 
+    }
+
+    .sectionDescr {
+        width: 100%;
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: antiquewhite;
     }
 
     .rightBlockImg {
